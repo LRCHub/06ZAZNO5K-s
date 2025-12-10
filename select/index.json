@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "バイタルサイン",
+  "base_artist": "みらくらぱーく！",
+  "createdAt": "2025-12-10T03:50:22.772414Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バイタルサイン",
+      "artist": "Awesome City Club",
+      "has_synced": false,
+      "path": "select/01_バイタルサイン_Awesome_City_Club.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バイタルサイン",
+      "artist": "みらくらぱーく!",
+      "has_synced": false,
+      "path": "select/pl_01_バイタルサイン_みらくらぱーく!.txt"
+    }
+  ]
+}
